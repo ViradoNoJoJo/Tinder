@@ -1,2 +1,0 @@
-# Tinder
-Página principal tinder!
